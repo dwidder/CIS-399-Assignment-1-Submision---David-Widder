@@ -1,0 +1,45 @@
+body {
+	background: #f9e933;
+	font-size: 100%;
+	font-family: 'Tahoma', Geneva, sans-serif;
+}
+
+header {
+	background: white;
+}
+
+header .container, main .container, footer .container { 
+	max-width: 855px;
+	margin: auto;
+}
+
+h1{
+	font-family: 'Denk One', sans-serif;
+	font-weight:lighter;
+	font-size: 250%;
+	color:#808080;
+}
+
+h2{
+	font-size: x-large;
+}
+
+h3{
+	font-size: large;
+}
+
+h4{
+
+}
+
+p{
+	font-size: 90%;
+}
+
+main {
+	background: white;
+}
+
+header, main, footer {
+	min-width: 855px;
+}
